@@ -14,7 +14,7 @@ BIOOOOOOOOOOO
 麻黄汤药味虽少，但发汗力强，不可过服。\
 biiOOOOOOOOOOOOOOOO
 
-目录dictionaries中包含中医学科词典，包括中药、方剂、书籍、针灸等。
+目录dictionaries中包含中医学科词典，包括中药、方剂、病症、书籍、针灸等。
 
 ## 文章引用
 
